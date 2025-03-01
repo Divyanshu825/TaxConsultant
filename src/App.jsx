@@ -9,8 +9,6 @@ const App = () => {
     <div>
       <Router>
         <Navbar />
-
-
         <button
           style={{
             position: 'fixed',
