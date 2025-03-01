@@ -13,7 +13,7 @@ const Navbar = () => {
     };
 
     return (
-        <header>
+        <div className='Header'>
             <div className="navbar">
                 <div className="logo">
                     <img src={Logo} alt="" />
@@ -75,7 +75,7 @@ const Navbar = () => {
                     </a>
                 </div>
             )}
-        </header>
+        </div>
     );
 };
 

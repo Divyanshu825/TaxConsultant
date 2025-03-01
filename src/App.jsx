@@ -10,10 +10,6 @@ const App = () => {
       <Router>
         <Navbar />
 
-        {/* <Routes>
-          <Route path="" element={<Home />} />
-        </Routes> */}
-
         <button
           style={{
             position: 'fixed',
